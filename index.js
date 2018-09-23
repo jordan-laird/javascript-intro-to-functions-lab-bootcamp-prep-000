@@ -5,4 +5,6 @@ function whisper(string){
   return string.toLowerCase()
 }
 
-function sayHiToGrandma
+function sayHiToGrandma(string){
+  if string === string.toLowerCase
+}
