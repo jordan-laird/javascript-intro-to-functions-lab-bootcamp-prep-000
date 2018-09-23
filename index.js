@@ -6,5 +6,6 @@ function whisper(string){
 }
 
 function sayHiToGrandma(string){
-  if string === string.toLowerCase
+  if (string === string.toLowerCase)
+  return 
 }
